@@ -1,0 +1,123 @@
+body{
+    background-color:#FAFDF0;
+}
+
+header{
+    display:flex;
+    justify-content:space-between;
+}
+header h3{
+    margin-left:15px;
+}
+header div{
+    padding:20px;
+}
+
+header div i{
+    padding:5px;
+}
+
+main{
+    display:flex;
+    justify-content:space-between;
+}
+main h1{
+    font-family:cursive;
+    font-size:45px;
+    color:#113859;
+}
+
+main div button{
+    margin-top:45px;
+    margin-right:10px;
+    padding:10px;
+    background-color:white;
+    border-radius:5px;
+    border:2px solid #113859;
+    
+}
+
+section{
+    display:flex;
+    justify-content:center;
+    margin-top:30px;
+    margin-bottom: 30px;
+    
+}
+
+.parenting{
+    color:#61c2e8;
+    text-align:center;
+    font-size:30px;
+    font-weight:bold;
+}
+
+.parenting2{
+    color:#113859;
+    text-align:center;
+    font-size:28px;
+   
+    
+}
+
+.parenting3{
+    color:#61c2e8;
+    text-align:center;
+    font-size:25px;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.parenting4{
+    font-size:16px;
+    text-align:center;
+    color:#113859;
+}
+
+.Dadvice-btn {
+    display:flex;
+    justify-content:center;
+    background-color:#113859;
+    margin: 30px auto;
+    color:#f5f1e1;
+    padding:15px;
+    border-radius:5px;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.find{
+    text-align:center;
+    font-size:30px;
+    color:#113859;
+
+}
+
+.section1 div{
+    margin-top:35px;
+    font-size:20px;
+    color:#113859;
+    
+}
+
+.section1 div span{
+    font-weight:bold;
+}
+
+.italics{
+    font-style:italic;
+}
+
+footer{
+    background-color:#f5f2ae;
+    min-width:100px;
+    min-height:100%;
+    padding:10px;
+    
+}
+
+footer div{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
